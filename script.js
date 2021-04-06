@@ -51,3 +51,4 @@ button.onclick = function() {googleLogin(provider)};
 
 
 console.log(button)
+conbsole.lop("Hello world")
